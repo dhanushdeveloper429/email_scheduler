@@ -1,5 +1,4 @@
-# email_scheduler 
-# Validate Status Based api
+# Email_Scheduler - Validate API Status 
 # Framework - SpringBoot
 # PL- Java
 # Dependencies
