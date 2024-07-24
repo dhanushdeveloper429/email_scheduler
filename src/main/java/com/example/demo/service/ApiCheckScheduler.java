@@ -13,7 +13,7 @@ public class ApiCheckScheduler {
     @Autowired
     private ApiCheckService apiCheckService;
 
-    @Scheduled(fixedRate = 300)
+    @Scheduled(fixedRate = 400)
     public void scheduleCheckApiStatus() {
     	System.out.println("Helooo.........................");
         apiCheckService.checkApiStatus();
